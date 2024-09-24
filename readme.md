@@ -29,7 +29,7 @@ Career-Assistant is an AI-powered career guidance assistant designed to help use
 2. Navigate to the project directory:
 
     ```bash 
-    cd pathmentor
+    cd Career-Assistant
 
 3. Install dependencies:
 
